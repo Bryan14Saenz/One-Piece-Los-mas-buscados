@@ -14,9 +14,12 @@
     }
   }
 
+  // Hacer mas pequeños los botones y el buscador
+
   .categoria {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 
     .categoria__botones {
       margin: 5px;

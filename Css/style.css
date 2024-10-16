@@ -59,6 +59,7 @@ header .navbar div .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
 .main .categoria {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 .main .categoria .categoria__botones {
   margin: 5px;
